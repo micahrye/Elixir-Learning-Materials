@@ -8,7 +8,7 @@ while the videos are higher level about usage etc.
 
 Please add more great resources and submit a pull request.
 
-## Websites
+## Foundations
 
 * Elixir langauage introduction tutorials
   * https://elixir-lang.org/getting-started/introduction.html
@@ -23,16 +23,6 @@ Read the docs
   * https://elixirschool.com/en/lessons/basics/testing/
 * Learn you some Erlang, this is a very rich resource about Erlang, the foundation of Elixir's power. Worth reading for sure. 
   * http://learnyousomeerlang.com/content
-
-
-## Blogs & Articles
-The following are some of the companies sharing their experience of using Elixir in production, or personal blogs
-with great tutorials.
-* [Plataformatec](http://blog.plataformatec.com.br/tag/elixir/)
-* [Dockyard](https://dockyard.com/blog/categories/elixir)
-* [Discord](https://blog.discordapp.com/tagged/elixir)
-* [Bleacher Report](https://dev.bleacherreport.com/tagged/elixir)
-
 
 ## Topics
 
@@ -62,6 +52,15 @@ with great tutorials.
 * Dializyer
   * http://learnyousomeerlang.com/dialyzer
   * https://elixirschool.com/en/lessons/specifics/debugging/
+
+
+## Blogs & Articles
+The following are some of the companies sharing their experience of using Elixir in production, or personal blogs
+with great tutorials.
+* [Plataformatec](http://blog.plataformatec.com.br/tag/elixir/)
+* [Dockyard](https://dockyard.com/blog/categories/elixir)
+* [Discord](https://blog.discordapp.com/tagged/elixir)
+* [Bleacher Report](https://dev.bleacherreport.com/tagged/elixir)
 
 
 ## Books
