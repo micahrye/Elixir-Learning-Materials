@@ -2,7 +2,7 @@
 Elixir is a functional programming language built on the power of Erlang. Inheriting from Erlang, it is a
 language designed for distributed, concurrent, fault tolerant systems.
 
-The following are suggested readings and videos to learn about the Elixir and Erlang.
+The following are suggested readings and videos to learn about Elixir and Erlang.
 The readings provide more detailed information about the language and tutorials,
 while the videos are higher level about usage etc.
 
@@ -68,6 +68,7 @@ with great tutorials.
 
 * [Programming Elixir 1.3](https://pragprog.com/book/elixir13/programming-elixir-1-3)
 * [The Little Elixir and OTP Guidebook](https://www.amazon.com/Little-Elixir-OTP-Guidebook/dp/1633430111)
+* [Elixir in Action](https://www.manning.com/books/elixir-in-action)
 * [Programming Phoenix: Productive |> Reliable |> Fast](https://pragprog.com/book/phoenix/programming-phoenix) 
 Updated book coming December 2017.
 * [Programming Erlang, seminal book by creator of Erlang](https://www.amazon.com/Programming-Erlang-Concurrent-Pragmatic-Programmers/dp/193778553X)
