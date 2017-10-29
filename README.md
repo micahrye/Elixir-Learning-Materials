@@ -25,7 +25,7 @@ Read the docs
   * http://learnyousomeerlang.com/content
 
 
-## Blogs
+## Blogs & Articles
 The following are some of the companies sharing their experience of using Elixir in production, or personal blogs
 with great tutorials.
 * [Plataformatec](http://blog.plataformatec.com.br/tag/elixir/)
