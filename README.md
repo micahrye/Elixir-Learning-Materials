@@ -34,13 +34,6 @@ with great tutorials.
 * [Bleacher Report](https://dev.bleacherreport.com/tagged/elixir)
 
 
-
-
-Ecto, the Elixir database wrapper (think ORM, but not ORM). Of particular interest are Schemas and changesets. 
-https://hexdocs.pm/ecto/getting-started.html
-Do the getting started
-Read the docs
-
 ## Topics
 
 * GenServer
