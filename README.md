@@ -60,6 +60,7 @@ with great tutorials.
 * [Plataformatec](http://blog.plataformatec.com.br/tag/elixir/)
 * [Dockyard](https://dockyard.com/blog/categories/elixir)
 * [Discord](https://blog.discordapp.com/tagged/elixir)
+* [ThoughtBot](https://robots.thoughtbot.com/tags/elixir)
 * [Bleacher Report](https://dev.bleacherreport.com/tagged/elixir)
 
 
