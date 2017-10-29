@@ -79,7 +79,7 @@ When watching on Youtube you can speed the videos up to 1.25 or 1.5, as a lot of
 * GOTO 2016 - Phoenix a Web Framework for the New Web - José Valim
   * https://www.youtube.com/watch?v=bk3icU8iIto
 * Genstage and Flow
-  https://www.youtube.com/watch?v=XPlXNUXmcgE 
+  * https://www.youtube.com/watch?v=XPlXNUXmcgE 
 * What every Node.js developer needs to know about Elixir - Bryan Hunter
   * https://www.youtube.com/watch?v=q8wueg2hswA
 * Exploring Elixir
