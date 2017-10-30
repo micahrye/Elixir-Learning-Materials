@@ -10,16 +10,15 @@ Please add more great resources and submit a pull request.
 
 ## Foundations
 
-* Elixir langauage introduction tutorials
+* Elixir language introduction tutorials
   * https://elixir-lang.org/getting-started/introduction.html
-    * Run through the getting started 1-22 then the “Mix and OTP” 1-10. 
+    * Run through the getting started 1-22 then the “Mix and OTP” 1-10.
 * Elixir Documentation (RTFD :) 
   * https://elixir-lang.org/docs.html
 * Phoenix Framework, this is the main Elixir web-framework
-  * Do  “Guides” and “Testing” you will learn a lot even if web is not your thing. Lots of good patterns and approaches.
-Read the docs
-    * https://hexdocs.pm/phoenix/overview.html
-* Elixr School, another solid resource for topical learning
+  * Do “Guides” and “Testing” you will learn a lot even if web is not your thing. Lots of good patterns and approaches.
+  * Read the docs https://hexdocs.pm/phoenix/overview.html
+* Elixir School, another solid resource for topical learning
   * https://elixirschool.com/en/lessons/basics/testing/
 * Learn you some Erlang, this is a very rich resource about Erlang, the foundation of Elixir's power. Worth reading for sure. 
   * http://learnyousomeerlang.com/content
@@ -29,13 +28,13 @@ Read the docs
 * GenServer
   * Overview video https://www.youtube.com/watch?v=XPlXNUXmcgE
   * http://erlang.org/doc/design_principles/gen_server_concepts.html
-* ETS, Erlang in memor 
+* ETS, Erlang in memory 
   * https://elixir-lang.org/getting-started/mix-otp/ets.html
   * https://elixirschool.com/en/lessons/specifics/ets/
   * http://erlang.org/doc/man/ets.html
 * Streams
   * https://elixir-lang.org/getting-started/enumerables-and-streams.html
-* https://hexdocs.pm/elixir/Stream.html
+  * https://hexdocs.pm/elixir/Stream.html
 * GenStage
   * https://hexdocs.pm/gen_stage/GenStage.html
   * https://elixir-lang.org/blog/2016/07/14/announcing-genstage/
@@ -49,7 +48,7 @@ Read the docs
   * https://hexdocs.pm/ex_unit/ExUnit.html
 * ExDoc
   * https://hexdocs.pm/elixir/writing-documentation.html
-* Dializyer
+* Dialyzer
   * http://learnyousomeerlang.com/dialyzer
   * https://elixirschool.com/en/lessons/specifics/debugging/
 
@@ -75,7 +74,7 @@ Updated book coming December 2017.
 * [Erlang in Anger](http://www.erlang-in-anger.com/)
 
 ## Videos
-When watching on Youtube you can speed the videos up to 1.25 or 1.5, as a lot of people speak slowly
+When watching on YouTube you can speed the videos up to 1.25 or 1.5, as a lot of people speak slowly
 
 * GOTO 2016 - Phoenix a Web Framework for the New Web - José Valim
   * https://www.youtube.com/watch?v=bk3icU8iIto
@@ -87,7 +86,7 @@ When watching on Youtube you can speed the videos up to 1.25 or 1.5, as a lot of
   * https://www.youtube.com/channel/UCFKQ85T69sYhifDHF7dnPgw/videos
 * Elixir and the Internet of Things - Doug Rohrer
   * https://www.youtube.com/watch?v=a-OCorBXX7M
-* 2017 Jose Valim Keynote on Elixir
+* 2017 José Valim Keynote on Elixir
   * https://www.youtube.com/watch?v=Wa7_I_pc0yo
 * 2017 Phoenix Framework Keynote
   * https://www.youtube.com/watch?v=tMO28ar0lW8
