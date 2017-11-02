@@ -28,7 +28,7 @@ Please add more great resources and submit a pull request.
 * GenServer
   * Overview video https://www.youtube.com/watch?v=XPlXNUXmcgE
   * http://erlang.org/doc/design_principles/gen_server_concepts.html
-* ETS, Erlang in memory 
+* ETS, Erlang in memory key-value store.
   * https://elixir-lang.org/getting-started/mix-otp/ets.html
   * https://elixirschool.com/en/lessons/specifics/ets/
   * http://erlang.org/doc/man/ets.html
@@ -42,6 +42,8 @@ Please add more great resources and submit a pull request.
   * https://hexdocs.pm/flow/Flow.html
 * Phoenix Presence
   * https://hexdocs.pm/phoenix/Phoenix.Presence.html
+* Phoenix On a Cluster of Nodes
+  * https://dockyard.com/blog/2016/01/28/running-elixir-and-phoenix-projects-on-a-cluster-of-nodes
 * Ecto
   * https://hexdocs.pm/ecto/getting-started.html
 * ExUnit
