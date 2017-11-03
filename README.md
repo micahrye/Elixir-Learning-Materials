@@ -23,6 +23,17 @@ Please add more great resources and submit a pull request.
 * Learn you some Erlang, this is a very rich resource about Erlang, the foundation of Elixir's power. Worth reading for sure. 
   * http://learnyousomeerlang.com/content
 
+## Books
+
+* [Programming Elixir 1.3](https://pragprog.com/book/elixir13/programming-elixir-1-3)
+* [The Little Elixir and OTP Guidebook](https://www.amazon.com/Little-Elixir-OTP-Guidebook/dp/1633430111)
+* [Elixir in Action](https://www.manning.com/books/elixir-in-action)
+* [Programming Phoenix: Productive |> Reliable |> Fast](https://pragprog.com/book/phoenix/programming-phoenix) 
+Updated book coming December 2017.
+* [Programming Erlang, seminal book by creator of Erlang](https://www.amazon.com/Programming-Erlang-Concurrent-Pragmatic-Programmers/dp/193778553X)
+* [Erlang in Anger](http://www.erlang-in-anger.com/)
+
+
 ## Topics
 
 * GenServer
@@ -58,22 +69,16 @@ Please add more great resources and submit a pull request.
 ## Blogs & Articles
 The following are some of the companies sharing their experience of using Elixir in production, or personal blogs
 with great tutorials.
+### Companies
 * [Plataformatec](http://blog.plataformatec.com.br/tag/elixir/)
 * [Dockyard](https://dockyard.com/blog/categories/elixir)
 * [Discord](https://blog.discordapp.com/tagged/elixir)
 * [ThoughtBot](https://robots.thoughtbot.com/tags/elixir)
 * [Bleacher Report](https://dev.bleacherreport.com/tagged/elixir)
 
+### Individuals
+* [Zohaib](http://www.zohaib.me/tag/elixir/)
 
-## Books
-
-* [Programming Elixir 1.3](https://pragprog.com/book/elixir13/programming-elixir-1-3)
-* [The Little Elixir and OTP Guidebook](https://www.amazon.com/Little-Elixir-OTP-Guidebook/dp/1633430111)
-* [Elixir in Action](https://www.manning.com/books/elixir-in-action)
-* [Programming Phoenix: Productive |> Reliable |> Fast](https://pragprog.com/book/phoenix/programming-phoenix) 
-Updated book coming December 2017.
-* [Programming Erlang, seminal book by creator of Erlang](https://www.amazon.com/Programming-Erlang-Concurrent-Pragmatic-Programmers/dp/193778553X)
-* [Erlang in Anger](http://www.erlang-in-anger.com/)
 
 ## Videos
 When watching on YouTube you can speed the videos up to 1.25 or 1.5, as a lot of people speak slowly
