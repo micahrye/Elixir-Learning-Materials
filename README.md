@@ -92,6 +92,8 @@ When watching on YouTube you can speed the videos up to 1.25 or 1.5, as a lot of
   * https://www.youtube.com/watch?v=Wa7_I_pc0yo
 * 2017 Phoenix Framework Keynote
   * https://www.youtube.com/watch?v=tMO28ar0lW8
+* Phoenix Channels - a Distributed PubSub and Presence Platform - Sonny Scroggin
+  * https://vimeo.com/171317273
 * The Road to 2 Million Websocket Connections in Phoenix
   * https://www.youtube.com/watch?v=c6JcVwbOGXc
 * 18 Months of Elixir in Production at Bleacher Report
