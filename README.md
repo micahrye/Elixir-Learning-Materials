@@ -22,6 +22,10 @@ Please add more great resources and submit a pull request.
   * https://elixirschool.com/en/lessons/basics/testing/
 * Learn you some Erlang, this is a very rich resource about Erlang, the foundation of Elixir's power. Worth reading for sure. 
   * http://learnyousomeerlang.com/content
+* Erlang Efficiency Guide 
+  * http://erlang.org/doc/efficiency_guide/introduction.html
+* Erlang Docs
+  http://erlang.org/doc/index.html
 
 ## Books
 
