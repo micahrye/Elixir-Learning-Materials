@@ -25,8 +25,9 @@ Please add more great resources and submit a pull request.
 * Erlang Efficiency Guide 
   * http://erlang.org/doc/efficiency_guide/introduction.html
 * Erlang Docs
-  http://erlang.org/doc/index.html
-
+  * http://erlang.org/doc/index.html
+* Spawned Shelter
+  * http://spawnedshelter.com/
 ## Books
 
 * [Programming Elixir 1.3](https://pragprog.com/book/elixir13/programming-elixir-1-3)
