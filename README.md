@@ -77,6 +77,7 @@ with great tutorials.
 * [Bleacher Report](https://dev.bleacherreport.com/tagged/elixir)
 
 ### Individuals
+* [Today I Learned](https://til.hashrocket.com/elixir)
 * [Zohaib](http://www.zohaib.me/tag/elixir/)
 
 
