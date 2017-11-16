@@ -83,6 +83,7 @@ with great tutorials.
 
 ### Individuals
 * [Today I Learned](https://til.hashrocket.com/elixir)
+* [Zorbash](https://zorbash.com/)
 * [Zohaib](http://www.zohaib.me/tag/elixir/)
 
 
