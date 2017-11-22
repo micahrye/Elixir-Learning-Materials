@@ -122,3 +122,8 @@ When watching on YouTube you can speed the videos up to 1.25 or 1.5, as a lot of
 * How we program multicores - Joe Armstrong
   * https://www.youtube.com/watch?v=bo5WL5IQAd0
 
+## Interesting Projects
+
+* [immortal](https://github.com/danielberkompas/immortal)
+* [gen_retry](https://github.com/appcues/gen_retry)
+* 
