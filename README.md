@@ -37,6 +37,7 @@ Please add more great resources and submit a pull request.
 Updated book coming December 2017.
 * [Programming Erlang, seminal book by creator of Erlang](https://www.amazon.com/Programming-Erlang-Concurrent-Pragmatic-Programmers/dp/193778553X)
 * [Erlang in Anger](http://www.erlang-in-anger.com/)
+* [The Erlang Runtime System](https://happi.github.io/theBeamBook/)
 
 
 ## Topics
