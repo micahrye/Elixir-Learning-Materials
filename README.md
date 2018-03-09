@@ -88,6 +88,7 @@ with great tutorials.
 * [Zorbash](https://zorbash.com/)
 * [Zohaib](http://www.zohaib.me/tag/elixir/)
 * [Quick Examples](https://elixir-examples.github.io/)
+* [Elixir Bridge](http://elixirbridge.org/docs.html)
 
 
 ## Videos
@@ -127,5 +128,4 @@ When watching on YouTube you can speed the videos up to 1.25 or 1.5, as a lot of
 ## Interesting Projects
 
 * [immortal](https://github.com/danielberkompas/immortal)
-* [gen_retry](https://github.com/appcues/gen_retry)
-* 
+* [gen_retry](https://github.com/appcues/gen_retry) 
